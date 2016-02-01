@@ -31,3 +31,12 @@ Project: Implementing deep neural networks in C
 
 * [Presentation](module4_presentation.pdf)
 * [R package](https://github.com/mmider/OxWaSPneuralnets)
+
+
+### Module 5: Machine Learning
+
+Project: Variational inference for topic modelling (Latent Dirichlet Allocation)
+
+* [Report](module5_report.pdf)
+* [Presentation](module5_presentation.pdf)
+* [R package](https://github.com/kasparmartens/oxwaspLDA)
