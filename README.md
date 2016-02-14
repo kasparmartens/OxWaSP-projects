@@ -40,3 +40,10 @@ Project: Variational inference for topic modelling (Latent Dirichlet Allocation)
 * [Report](module5_report.pdf)
 * [Presentation](module5_presentation.pdf)
 * [R package](https://github.com/kasparmartens/oxwaspLDA)
+
+### Module 6: Bayesian Statistics
+
+Project: Bayesian non-parametrics (discussion on Dirichlet process mixtures and Polya trees, with a focus on density estimation)
+
+* [Report](module6_report.pdf)
+* [Presentation](module6_presentation.pdf)
