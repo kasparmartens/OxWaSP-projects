@@ -47,3 +47,10 @@ Project: Bayesian non-parametrics (discussion on Dirichlet process mixtures and 
 
 * [Report](module6_report.pdf)
 * [Presentation](module6_presentation.pdf)
+
+### Module 7: Applied Statistics
+
+Project: Quantifying Dependence (discussion on various methods for detecting associations between two random variables, such as mutual information and maximal information coefficient)
+
+* [Report](module7_report.pdf)
+* [Presentation](module7_presentation.pdf)
