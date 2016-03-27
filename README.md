@@ -1,6 +1,5 @@
-# OxWaSP-projects
-
-Here are my reports for micro-projects which were written during OxWaSP two-week modules. 
+Here are the reports for my OxWaSP micro-projects. 
+These were written as group work during the two-week modules in the first year of the OxWaSP programme. 
 
 ### Module 1: Computational Statistics & Statistical Computing
 
@@ -54,3 +53,10 @@ Project: Quantifying Dependence (discussion on various methods for detecting ass
 
 * [Report](module7_report.pdf)
 * [Presentation](module7_presentation.pdf)
+
+### Module 8: Time series & stochastic processes
+
+Project: Bayesian non-parametric approaches for dependent processes
+
+* [Report](module8_report.pdf)
+* [Presentation](module8_presentation.pdf)
